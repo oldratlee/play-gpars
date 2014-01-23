@@ -1,7 +1,7 @@
 Play GPars
 ==================================
 
-GPars [example code](http://gpars.org/download/1.1.0/gpars-samples-1.1.0.zip).
+[GPars](http://gpars.codehaus.org) [example code](http://gpars.org/download/1.1.0/gpars-samples-1.1.0.zip) at [GPars Demos Page](http://gpars.codehaus.org/Demos).
 
 You can check out code and run. 
 
@@ -48,3 +48,9 @@ Caused by: org.apache.maven.plugin.compiler.CompilationFailureException: Compila
 	at org.apache.maven.lifecycle.DefaultLifecycleExecutor.executeGoals(DefaultLifecycleExecutor.java:694)
 	... 17 more
 ```
+
+
+Related Resource
+----------------------------------
+
+- [Groovy-Eclipse compiler plugin for Maven](http://groovy.codehaus.org/Groovy-Eclipse+compiler+plugin+for+Maven)
